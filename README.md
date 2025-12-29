@@ -21,5 +21,10 @@ df, du, free, top, ps, systemctl, journalctl, crontab
 ## Role Focus
 Linux System Administrator (Production Environment)
 
+This repository reflects my daily Linux system administration tasks
+including monitoring, service management, and troubleshooting
+in production-like environments.
+
+
 ## Experience Level
 1+ year hands-on experience with Linux servers
